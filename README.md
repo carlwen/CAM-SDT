@@ -1,1 +1,1 @@
-# CAM-based-soft-tree-models
+# CAM-based Soft Decision Tree (SDT) and Soft Random Forest (SRF)
